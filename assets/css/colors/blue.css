@@ -28,8 +28,13 @@ blockquote {
 	text-decoration : none;
 }
 
-h5.title-small, h6.title-small {
+h1.title-small, h2.title-small, h3.title-small, h4.title-small, h5.title-small, h6.title-small {
 	background:#28a0ff; 
+	color:white;
+	margin: 0 0;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 30px;
 }
 
 .grid figcaption {
@@ -66,6 +71,7 @@ h5.title-small, h6.title-small {
 
 .button-b a {
 	background-color:#28a0ff;
+	margin: auto;
 }
 
 .cbp-qtprogress {

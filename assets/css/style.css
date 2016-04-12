@@ -703,10 +703,9 @@ h6.title-footer {
 /* ========== BUTTON CONF ========== */
 
 .button-b {
+	margin: auto;
 	display:block;
 	position:relative;
-	margin:25px 0 25px 0;
-	padding-left: 30px;
 }
 
 .button-b a {
